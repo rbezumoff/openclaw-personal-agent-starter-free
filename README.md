@@ -2,7 +2,35 @@
 
 A free starter sample for technical users who want to build a private AI assistant in Telegram with OpenClaw.
 
-This is not a full product and not a managed service. It is a small practical preview of the paid **OpenClaw Telegram Assistant Launch Kit**: a self-serve setup kit for getting from “OpenClaw looks interesting” to “I can message my own private assistant in Telegram” with less trial-and-error.
+The goal is simple:
+
+> Get from “OpenClaw looks interesting” to a sane first private Telegram assistant path without guessing through every setup layer.
+
+This repository is not a managed service and not a one-click installer. It is a practical preview of the paid **OpenClaw Telegram Assistant Launch Kit**.
+
+---
+
+## Start here
+
+If you are new to this setup, read these in order:
+
+1. [`free-sample/01-private-ai-assistant-starter-path.md`](free-sample/01-private-ai-assistant-starter-path.md)
+2. [`free-sample/02-telegram-setup-checklist.md`](free-sample/02-telegram-setup-checklist.md)
+3. [`free-sample/templates/AGENTS.md`](free-sample/templates/AGENTS.md)
+4. [`free-sample/templates/SOUL.md`](free-sample/templates/SOUL.md)
+
+Recommended first architecture:
+
+```text
+Personal PC
+  + one strong model path
+  + OpenClaw Gateway
+  + Telegram direct messages
+  + basic personal assistant persona
+  + one real workflow tested
+```
+
+A boring working setup is better than an ambitious broken one.
 
 ---
 
@@ -20,7 +48,8 @@ paid-kit-preview/
   free-vs-paid.md
 ```
 
-The sample is designed to help you understand:
+The sample helps you understand:
+
 - what a sane first OpenClaw assistant setup looks like;
 - why Telegram direct chat is usually the best first channel;
 - what can go wrong in Telegram setup;
@@ -29,36 +58,23 @@ The sample is designed to help you understand:
 
 ---
 
-## Recommended first setup path
+## What this helps you avoid
 
-For most first-time users, the best starting path is intentionally simple:
+Common day-one mistakes:
 
-```text
-Personal PC
-  + one strong model path
-  + OpenClaw Gateway
-  + Telegram direct messages
-  + basic personal assistant persona
-  + one real workflow tested
-```
-
-Do not start with every advanced option at once.
-
-Avoid this on day one:
-- VPS;
-- local-only models;
-- Telegram groups;
-- complex routing;
-- multiple fallback models;
-- broad automation.
-
-A boring working setup is better than an ambitious broken one.
+- starting with Telegram groups before direct messages work;
+- confusing Telegram usernames with numeric user IDs;
+- changing model, deployment, persona, and channel config at the same time;
+- trying weak local models before proving the workflow;
+- treating `AGENTS.md` / `SOUL.md` as decorative prompts instead of operating rules;
+- debugging the model when the real issue is Gateway, Telegram policy, or config.
 
 ---
 
 ## Who this is for
 
 This sample is for:
+
 - builders;
 - self-hosting enthusiasts;
 - indie hackers;
@@ -74,6 +90,7 @@ It assumes you are comfortable editing config files and following technical setu
 ## Who this is not for
 
 This is probably not for you if:
+
 - you want a fully managed SaaS;
 - you do not want to touch config;
 - you expect a one-click install;
@@ -82,9 +99,21 @@ This is probably not for you if:
 
 ---
 
+## Free guides
+
+These pages explain the highest-friction parts of the setup:
+
+- [OpenClaw Telegram setup guide](https://openclaw-launch-kit-site.vercel.app/openclaw-telegram-setup-guide.html?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
+- [Private AI assistant in Telegram](https://openclaw-launch-kit-site.vercel.app/private-ai-assistant-telegram.html?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
+- [OpenClaw model choice guide](https://openclaw-launch-kit-site.vercel.app/openclaw-model-choice-guide.html?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
+
+> Production landing domain is already set to `https://openclaw-launch-kit-site.vercel.app`.
+
+---
+
 ## Full Launch Kit
 
-The paid kit includes the complete self-serve setup package:
+The paid kit is the complete self-serve setup package:
 
 - Quick Start
 - Personal PC deployment guide
@@ -102,9 +131,22 @@ The paid kit includes the complete self-serve setup package:
 
 Current MVP price target: **$29**.
 
-See:
+Preview the full kit:
+
 - [`paid-kit-preview/whats-inside.md`](paid-kit-preview/whats-inside.md)
 - [`paid-kit-preview/free-vs-paid.md`](paid-kit-preview/free-vs-paid.md)
+
+Landing page:
+
+- [Get the full OpenClaw Telegram Assistant Launch Kit](https://openclaw-launch-kit-site.vercel.app/?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
+
+---
+
+## Simple decision
+
+Use this free sample if you are exploring.
+
+Get the full kit if you already know you want a private OpenClaw assistant in Telegram and would rather follow a structured setup path than piece everything together from scattered docs.
 
 ---
 
@@ -112,4 +154,4 @@ See:
 
 OpenClaw is active software. Always check the official OpenClaw documentation for breaking changes and current commands.
 
-This sample is meant to give you a practical starting model, not replace official docs.
+This sample gives you a practical starting model. It does not replace official docs.
