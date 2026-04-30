@@ -144,6 +144,6 @@ If the free sample matches how you like to work, the full kit is the shortcut ve
 
 Full landing page:
 
-[Get the OpenClaw Telegram Assistant Launch Kit](https://openclaw-launch-kit-site.vercel.app/?utm_source=github&utm_medium=paid_kit_preview&utm_campaign=openclaw_starter_free)
+[Get the OpenClaw Telegram Assistant Launch Kit](https://www.openclawlaunchkit.site/?utm_source=github&utm_medium=paid_kit_preview&utm_campaign=openclaw_starter_free)
 
-> Production landing domain is already set to `https://openclaw-launch-kit-site.vercel.app`.
+> Production landing domain is already set to `https://www.openclawlaunchkit.site`.

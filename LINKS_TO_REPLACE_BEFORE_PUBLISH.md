@@ -3,7 +3,7 @@
 Production landing domain:
 
 ```text
-https://openclaw-launch-kit-site.vercel.app
+https://www.openclawlaunchkit.site
 ```
 
 Payment backend used by the landing:
