@@ -8,6 +8,22 @@ The goal is simple:
 
 This repository is not a managed service and not a one-click installer. It is a practical preview of the paid **OpenClaw Telegram Assistant Launch Kit**.
 
+**Best first step:** open the free checklist landing page, then use this repo as the hands-on sample.
+
+- [Free Telegram AI assistant checklist](https://www.openclawlaunchkit.site/free-telegram-ai-assistant-checklist.html?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
+- [Full OpenClaw Telegram Assistant Launch Kit](https://www.openclawlaunchkit.site/?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
+
+---
+
+## What you can do in 20 minutes
+
+1. Read the starter path.
+2. Check the Telegram setup risks before creating a bot.
+3. Copy the starter `AGENTS.md` / `SOUL.md` files into a test workspace.
+4. Pick one boring workflow to validate first: notes, planning, troubleshooting, or research.
+
+If that path makes sense, the full kit gives you the complete setup sequence, troubleshooting, deployment options, and reusable templates.
+
 ---
 
 ## Start here
