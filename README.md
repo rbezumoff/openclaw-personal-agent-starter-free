@@ -10,7 +10,7 @@ This repository is not a managed service and not a one-click installer. It is a 
 
 **Best first step:** open the free checklist landing page, then use this repo as the hands-on sample.
 
-- [Free Telegram AI assistant checklist](https://www.openclawlaunchkit.site/free-telegram-ai-assistant-checklist.html?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
+- [Free Telegram AI assistant checklist](https://www.openclawlaunchkit.site/free-telegram-ai-assistant-checklist?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
 - [Full OpenClaw Telegram Assistant Launch Kit](https://www.openclawlaunchkit.site/?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
 
 ---
@@ -119,9 +119,9 @@ This is probably not for you if:
 
 These pages explain the highest-friction parts of the setup:
 
-- [OpenClaw Telegram setup guide](https://www.openclawlaunchkit.site/openclaw-telegram-setup-guide.html?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
-- [Private AI assistant in Telegram](https://www.openclawlaunchkit.site/private-ai-assistant-telegram.html?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
-- [OpenClaw model choice guide](https://www.openclawlaunchkit.site/openclaw-model-choice-guide.html?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
+- [OpenClaw Telegram setup guide](https://www.openclawlaunchkit.site/openclaw-telegram-setup-guide?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
+- [Private AI assistant in Telegram](https://www.openclawlaunchkit.site/private-ai-assistant-telegram?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
+- [OpenClaw model choice guide](https://www.openclawlaunchkit.site/openclaw-model-choice-guide?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
 
 > Production landing domain is already set to `https://www.openclawlaunchkit.site`.
 
