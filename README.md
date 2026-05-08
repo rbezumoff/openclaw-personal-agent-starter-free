@@ -10,6 +10,14 @@ This repository is not a managed service and not a one-click installer. It is a 
 
 **Best first step:** open the free checklist landing page, then use this repo as the hands-on sample.
 
+In 10 seconds, the path is:
+
+```text
+1. Use the free checklist to avoid the common Telegram/OpenClaw setup traps.
+2. Use this GitHub sample to copy the starter persona/workspace files.
+3. Buy the full kit only if you want the complete guided setup instead of assembling it yourself.
+```
+
 - [Free Telegram AI assistant checklist](https://www.openclawlaunchkit.site/free-telegram-ai-assistant-checklist?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
 - [Full OpenClaw Telegram Assistant Launch Kit](https://www.openclawlaunchkit.site/?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
 
@@ -23,6 +31,24 @@ This repository is not a managed service and not a one-click installer. It is a 
 4. Pick one boring workflow to validate first: notes, planning, troubleshooting, or research.
 
 If that path makes sense, the full kit gives you the complete setup sequence, troubleshooting, deployment options, and reusable templates.
+
+You do **not** need the paid kit to understand the basic idea. The free sample is intentionally useful on its own. The paid kit is for saving time once you know you want to build the assistant properly.
+
+---
+
+## Free sample vs full kit
+
+| If you need this | Start with |
+| --- | --- |
+| A quick sanity check before touching config | Free checklist |
+| Starter `AGENTS.md` / `SOUL.md` files | This free repo |
+| A first Telegram setup risk list | This free repo |
+| Step-by-step personal PC setup | Full Launch Kit |
+| VPS deployment path | Full Launch Kit |
+| Local model tradeoffs | Full Launch Kit |
+| Troubleshooting maps and reusable templates | Full Launch Kit |
+
+The goal is a clean upgrade path, not a hard sell: free first, paid only when the setup is worth doing seriously.
 
 ---
 
