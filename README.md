@@ -2,6 +2,8 @@
 
 A free starter sample for technical users who want to build a private AI assistant in Telegram with OpenClaw.
 
+I made this for the boring part of the setup: getting one private Telegram chat to work before you add VPS hosting, groups, local models, or bigger automations.
+
 The goal is simple:
 
 > Get from “OpenClaw looks interesting” to a sane first private Telegram assistant path without guessing through every setup layer.
@@ -9,6 +11,18 @@ The goal is simple:
 This repository is not a managed service and not a one-click installer. It is a practical preview of the paid **OpenClaw Telegram Assistant Launch Kit**.
 
 **Best first step:** open the free checklist landing page, then use this repo as the hands-on sample.
+
+## Quick preview
+
+```text
+You in Telegram
+  -> Telegram bot
+  -> OpenClaw Gateway
+  -> workspace files: AGENTS.md / SOUL.md / USER.md / TOOLS.md
+  -> assistant reply back in Telegram
+```
+
+That first loop is the thing to prove. Once it works, everything else is less mysterious.
 
 In 10 seconds, the path is:
 
@@ -20,6 +34,26 @@ In 10 seconds, the path is:
 
 - [Free Telegram AI assistant checklist](https://www.openclawlaunchkit.site/free-telegram-ai-assistant-checklist?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
 - [Full OpenClaw Telegram Assistant Launch Kit](https://www.openclawlaunchkit.site/?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
+
+If this saves you a round of setup guesswork, star or save the repo so you can find it later.
+
+---
+
+## Use this if / skip it if
+
+Use this if you want to:
+
+- try OpenClaw from Telegram without starting with a complex architecture;
+- understand the setup path before touching a VPS;
+- copy small starter persona/workspace files instead of writing them from scratch;
+- avoid the usual Telegram bot token / user ID / route debugging loop.
+
+Skip it if you want:
+
+- a hosted SaaS;
+- a one-click installer;
+- enterprise controls;
+- a full app framework for a public multi-user bot.
 
 ---
 
