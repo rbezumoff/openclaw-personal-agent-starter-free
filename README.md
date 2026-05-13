@@ -62,7 +62,9 @@ Skip it if you want:
 1. Read the starter path.
 2. Check the Telegram setup risks before creating a bot.
 3. Copy the starter `AGENTS.md` / `SOUL.md` files into a test workspace.
-4. Pick one boring workflow to validate first: notes, planning, troubleshooting, or research.
+4. Pick one boring workflow to validate first: notes, planning, troubleshooting, research, or a daily status check.
+
+A good first workflow is deliberately small: ask the assistant to check one public URL, one local file, or one scheduled task, then report only if something meaningful changed. That proves the assistant can act without turning into notification noise.
 
 If that path makes sense, the full kit gives you the complete setup sequence, troubleshooting, deployment options, and reusable templates.
 
@@ -181,6 +183,7 @@ These pages explain the highest-friction parts of the setup:
 
 - [OpenClaw Telegram setup guide](https://www.openclawlaunchkit.site/openclaw-telegram-setup-guide?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
 - [Private AI assistant in Telegram](https://www.openclawlaunchkit.site/private-ai-assistant-telegram?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
+- [OpenClaw assistant daily checks](https://www.openclawlaunchkit.site/openclaw-assistant-daily-checks?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
 - [OpenClaw model choice guide](https://www.openclawlaunchkit.site/openclaw-model-choice-guide?utm_source=github&utm_medium=free_repo&utm_campaign=openclaw_starter_free)
 
 > Production landing domain is already set to `https://www.openclawlaunchkit.site`.
